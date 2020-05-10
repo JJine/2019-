@@ -109,7 +109,7 @@
     <td>10</td>
     <td>9498</td>
     <td>브론즈4</td>
-    <td>[시험 성적](https://www.acmicpc.net/problem/9498)</td>
+    <td> [시험 성적](https://www.acmicpc.net/problem/9498) </td>
     <td>완료</td>
     <td>ㅎ</td>
   </tr>
