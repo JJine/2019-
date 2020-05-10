@@ -33,6 +33,9 @@
   <th>
     한마디
   </th>
+   <th>
+    링크 
+  </th>
   <tr><!--첫번째 줄-->
     <td>1</td>
     <td>1008</td>
@@ -101,17 +104,28 @@
     <td>9</td>
     <td>9653</td>
     <td>브론즈5</td>
-    <td>if문</td>
+    <td>스타워즈 로고</td>
     <td>완료</td>
-    <td>ㅎ</td>
+    <td>8 많아지니까 혐오증 생길듯</td>
+    <td>https://www.acmicpc.net/problem/9653</td>
   </tr>
- <tr>
+  <tr>
     <td>10</td>
     <td>9498</td>
     <td>브론즈4</td>
-    <td> [시험 성적](https://www.acmicpc.net/problem/9498) </td>
+    <td>시험 성적</td> 
+    <td>완료</td>
+    <td>옛날에 풀었던거 다시 재탕중</td>
+    <td>https://www.acmicpc.net/problem/9498</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>9498</td>
+    <td>브론즈4</td>
+    <td>시험 성적</td> 
     <td>완료</td>
     <td>ㅎ</td>
+    <td>https://www.acmicpc.net/problem/9498</td>
   </tr>
 </table>
 
