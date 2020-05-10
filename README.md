@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>1330</td>
+    <td>2588</td>
     <td>*</td>
     <td>if문</td>
     <td>완료</td>
@@ -51,7 +51,47 @@
   </tr>
    <tr>
     <td>3</td>
-    <td>2588</td>
+    <td>10430</td>
+    <td>*</td>
+    <td>if문</td>
+    <td>완료</td>
+    <td>ㅎ</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>10998</td>
+    <td>*</td>
+    <td>if문</td>
+    <td>완료</td>
+    <td>ㅎ</td>
+  </tr>
+   <tr>
+    <td>5</td>
+    <td>1330</td>
+    <td>*</td>
+    <td>if문</td>
+    <td>완료</td>
+    <td>ㅎ</td>
+  </tr>
+   <tr>
+    <td>6</td>
+    <td>9488</td>
+    <td>*</td>
+    <td>if문</td>
+    <td>완료</td>
+    <td>ㅎ</td>
+  </tr>
+   <tr>
+    <td>7</td>
+    <td>2753</td>
+    <td>*</td>
+    <td>if문</td>
+    <td>완료</td>
+    <td>ㅎ</td>
+  </tr>
+   <tr>
+    <td>8</td>
+    <td>10171</td>
     <td>*</td>
     <td>if문</td>
     <td>완료</td>
