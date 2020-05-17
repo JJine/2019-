@@ -137,6 +137,15 @@
     <td>20-05-11</td>
     <td>https://www.acmicpc.net/problem/5597</td>
   </tr>
+ <tr>
+   <td>13</td>
+     <td>15894</td>
+     <td>브론즈5</td>
+     <td>수학은 체육과목 입니다 </td> 
+     <td>완료</td>
+     <td>20-05-18</td>
+    <td>https://www.acmicpc.net/problem/15894</td>
+ </tr>
 </table>
 
 * * *
