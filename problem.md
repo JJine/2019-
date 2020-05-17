@@ -145,6 +145,15 @@
      <td>완료</td>
      <td>20-05-18</td>
     <td>https://www.acmicpc.net/problem/15894</td>
+  파일이 갑자기 안올려져서 #include <stdio.h>
+
+main() {
+	long int n;
+	
+	scanf("%ld", &n);
+	printf("%ld\n", n*4);
+	return 0;
+} 
  </tr>
 </table>
 
